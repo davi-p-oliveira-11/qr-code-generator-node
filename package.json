@@ -1,0 +1,13 @@
+{
+  "name": "qr-code-node",
+  "version": "1.0.0",
+  "description": "utility kit for e-commerces",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
