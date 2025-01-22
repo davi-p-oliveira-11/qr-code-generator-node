@@ -1,5 +1,3 @@
-import { message } from "prompt";
-
 const mainPrompt = [
   {
     name: "select",
@@ -9,3 +7,5 @@ const mainPrompt = [
     required: true,
   },
 ];
+
+export default mainPrompt;
